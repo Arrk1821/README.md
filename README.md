@@ -1,5 +1,5 @@
 ![MasterHead](./banner.gif)
-<h1 align="center">Hi 👋, I'm Damian Duda</h1>
+<h1 align="center">Hi 👋, I'm Arrk Raj</h1>
 <h3 align="center">A passionate full stack developer from Poland, third year student</h3>
 <img align="right" alt="Coding" width="400" src="./header.jpg">
 
