@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Arrk1821/README.md/raw/main/giphy.gif" alt="logo" width="300">
+</p>
+
 <h1 align="center">Hi 👋, I'm Arrk Raj</h1>
 <h3 align="center">Exploring AI, Building the Web, and Visualizing Data</h3>
 <img align="right" alt="coading" width="400" src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif">
